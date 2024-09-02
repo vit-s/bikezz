@@ -1,4 +1,4 @@
-import Link                                                                               from 'next/Link'
+import Link                                                                               from 'next/link'
 import { Input }                                                                          from "./ui/input.jsx"
 import { RiYoutubeFill, RiFacebookFill, RiInstagramFill, RiPinterestFill, RiTwitterFill } from 'react-icons/ri'
 
